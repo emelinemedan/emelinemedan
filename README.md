@@ -25,7 +25,7 @@ I'm Émeline Medan — a passionate data scientist and creative developer blendi
 - 📊 **Sentiment Classification – Product Reviews**  
   NLP model that classifies Amazon food reviews into positive, neutral, or negative sentiment. Includes model training, evaluation, visualization, and user interaction.
 
-- 🧠 **Introvert vs Extrovert Behavior Analysis **  
+- 🧠 **Introvert vs Extrovert Behavior Analysis**  
   Exploratory data analysis of personality traits using survey data. Includes preprocessing, visualization, and interpretation of behavioral patterns using Looker Studio.
 
 - 🛠️ **Mini Python Projects**  
