@@ -33,12 +33,6 @@ I'm Émeline Medan — a passionate data scientist and creative developer blendi
 
 ---
 
-## ✨ Fun Fact
-
-I love making technical work **interactive, beautiful**, and **user-friendly** — whether it's a dashboard, a visualization, or a Python script with a smart CLI interface.
-
----
-
 ## 📫 Let’s connect!
 
 Feel free to explore, fork, or star any repo!  
