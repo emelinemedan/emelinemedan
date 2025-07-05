@@ -1,16 +1,49 @@
-### Hi there 👋
+# 👋 Hello and welcome!
 
-<!--
-**emelinemedan/emelinemedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Émeline Medan — a passionate data scientist and creative developer blending **technical expertise** with **practical solutions** and **design thinking**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About me
+
+🎓 I have experience in:
+- **Data Science** (supervised & unsupervised learning, NLP, Computer Vision)
+- **Data Analysis** (Python, Power BI, SQL, Excel)
+- **Web Development** (HTML, CSS, PHP, JSON, JS)
+- **Automation & Scripting** (Python automation, Jupyter notebooks)
+- **AI Projects**: Sentiment analysis, image classification, recommendation systems
+- **Project Management & Communication** (training, mentoring, dashboarding)
+
+🛠️ Tools & Technologies:
+`Python` `scikit-learn` `pandas` `matplotlib` `NLTK` `Power BI` `Looker Studio`  
+`PostgreSQL` `Jupyter` `VS Code` `Git` `Platform.sh` `Canva`
+
+---
+
+## 🔥 Projects Highlights
+
+- 📊 **Sentiment Classification – Product Reviews**  
+  NLP model that classifies Amazon food reviews into positive, neutral, or negative sentiment. Includes model training, evaluation, visualization, and user interaction.
+
+- 🧠 **Data Science Portfolio (WIP)**  
+  Projects exploring introvert vs extrovert behavior, social media addiction, and fast-food nutritional analysis.
+
+- 🛠️ **Mini Python Projects**  
+  Fun command-line games and tools: dice rolling, rock-paper-scissors (Chifoumi), password generators, number guessing game, and acronym creator.
+
+---
+
+## ✨ Fun Fact
+
+I love making technical work **interactive, beautiful**, and **user-friendly** — whether it's a dashboard, a visualization, or a Python script with a smart CLI interface.
+
+---
+
+## 📫 Let’s connect!
+
+Feel free to explore, fork, or star any repo!  
+If you want to collaborate or have a question, don’t hesitate to open an issue or send a message.
+
+---
+
+🧩 _“Combining logic and creativity to solve problems and build useful things.”_
